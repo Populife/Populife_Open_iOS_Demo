@@ -1,9 +1,9 @@
 //
 //  KJXIAChooseSSIDView.m
-//  Sciener
+//  Populife
 //
 //  Created by 王娟娟 on 2019/3/11.
-//  Copyright © 2019 sciener. All rights reserved.
+//  Copyright © 2019 Populife. All rights reserved.
 //
 
 #import "ChooseSSIDView.h"

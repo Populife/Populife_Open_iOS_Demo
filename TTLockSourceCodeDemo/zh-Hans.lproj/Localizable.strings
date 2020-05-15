@@ -3,7 +3,7 @@
   TTLockSourceCodeDemo
 
   Created by Jinbo Lu on 2019/5/6.
-  Copyright © 2019 Sciener. All rights reserved.
+  Copyright © 2019 Populife. All rights reserved.
 */
 
 
@@ -115,7 +115,6 @@
 "gateway Name" = "网关名称";
 "Please enter gateway name" = "请输入网关名称";
 "Wireless Keypad" = "无线键盘";
-"Go to register a account from app TTLock" = "请先在通通锁APP中注册一个账号,再来登录";
-
+"Original password without MD5 encryption" = "输入未做MD5加密的原始密码";
 
 

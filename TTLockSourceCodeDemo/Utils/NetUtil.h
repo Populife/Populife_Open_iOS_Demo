@@ -10,12 +10,12 @@
 #import <AFNetworking/AFNetworking.h>
 #import <MJExtension/MJExtension.h>
 
-#define TTLockURL @"https://api.ttlock.com.cn/v3"
-#define TTLockLoginURL @"https://api.ttlock.com.cn"
+#define TTLockURL @"https://api.populife.co/v3"
+#define TTLockLoginURL @"https://api.populife.co"
 #define TTAppkey  @"7946f0d923934a61baefb3303de4d132"
 #define TTAppSecret @"56d9721abbc3d22a58452c24131a5554"
 
-#define TTRedirectUri @"http://www.sciener.cn"
+#define TTRedirectUri @"https://www.populife.co"
 
 typedef void(^RequestBlock)(id info, NSError* error);
 

@@ -3,7 +3,7 @@
 //  TTLockSourceCodeDemo
 //
 //  Created by 王娟娟 on 2019/4/28.
-//  Copyright © 2019 Sciener. All rights reserved.
+//  Copyright © 2019 Populife. All rights reserved.
 //
 
 #import "GuideGatewayViewController.h"
